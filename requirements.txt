@@ -1,0 +1,1 @@
+"pandas" this package is used to pytest file, so creating and testing the last row of the `books.csv` can be easier to do, then the last row is deleted so the assertion is still correct the next time pytest doing the csv file again
